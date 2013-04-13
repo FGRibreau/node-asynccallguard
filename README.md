@@ -1,4 +1,4 @@
-AsyncCallGuard
+AsyncCallGuard [![Build Status](https://drone.io/github.com/FGRibreau/node-asynccallguard/status.png)](https://drone.io/github.com/FGRibreau/node-asynccallguard/latest)
 --------------
 
 Make all calls to a function queued and asynchronously guarded
