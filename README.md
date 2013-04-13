@@ -12,9 +12,7 @@ Install the module with: `npm install asynccallguard`
 var AsyncCallGuard = require('asynccallguard');
 
 var w  = 100;
-
 var f  = function(){console.log(Array.prototype.slice.call(arguments));};
-
 var f2 = AsyncCallGuard(f, function MyGuard(fcall){
   //
   // ... Some complex logic here...

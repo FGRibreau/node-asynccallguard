@@ -1,8 +1,8 @@
 {
   "name": "asynccallguard",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Make all calls to a function queued and asynchronously guarded",
-  "main": "index.js",
+  "main": "asynccallguard.js",
   "scripts": {
     "test": "./node_modules/nodeunit/bin/nodeunit ./test/"
   },
