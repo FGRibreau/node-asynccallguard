@@ -1,6 +1,8 @@
 AsyncCallGuard
 --------------
 
+Make all calls to a function queued and asynchronously guarded
+
 ## NPM
 Install the module with: `npm install asynccallguard`
 
